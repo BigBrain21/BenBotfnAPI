@@ -10,7 +10,7 @@ setuptools.setup(
     description="Python library used to communicate with the benbotfn.tk server.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/BigBrain21/BenBotfnAPI",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
